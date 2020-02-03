@@ -1,4 +1,4 @@
-﻿namespace wsl_x11run
+﻿namespace x11run
 {
     partial class Form1
     {

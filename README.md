@@ -3,9 +3,9 @@ X11Run
 X11Run - Run X11 program with WSL like win32 program.
 
 ### How to use
-1. Copy wsl-x11run.exe to ```C:\Windows``` or ```C:\Windows\System32```
-2. Rename ```wsl-x11run.exe``` to ```x11run.exe```
-3. Run ```x11run xterm``` to open XTerm (just a example)
+1. Copy all files to ```C:\Windows``` or ```C:\Windows\System32```
+1. Edit configuration file ```x11run.exe.config```
+1. Run ```x11run xterm``` to open XTerm (just a example)
 
 ### Command line
 ```bash
